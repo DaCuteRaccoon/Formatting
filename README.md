@@ -26,7 +26,7 @@ $ol = New-Object -ComObject Word.Application
 $ol.Version
 ```
 
-Now, just [download the source code](/DaCuteRaccoon/Formatting/archive/refs/heads/main.zip)
+Now, just [download the source code](https://github.com/DaCuteRaccoon/Formatting/archive/refs/heads/main.zip), unzip `Formatting-main.zip`, go to `/Formatting-main/FORMATTING/`, then open the file you want with Word!
 
 [PDF]: /FORMATTING/PDF.pdf
 [Plain Text]: /FORMATTING/Plain%20Text.txt
