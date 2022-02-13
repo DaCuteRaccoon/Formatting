@@ -26,7 +26,7 @@ $ol = New-Object -ComObject Word.Application
 $ol.Version
 ```
 
-Now, just 
+Now, just [download the source code](/DaCuteRaccoon/Formatting/archive/refs/heads/main.zip)
 
 [PDF]: /FORMATTING/PDF.pdf
 [Plain Text]: /FORMATTING/Plain%20Text.txt
