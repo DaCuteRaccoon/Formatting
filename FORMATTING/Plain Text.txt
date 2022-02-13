@@ -1,0 +1,44 @@
+Normal
+Bold
+Italic
+Underline
+Double underline
+Thick underline
+Dotted underline
+Dashed underline
+Dot-dash underline
+Dot-dot-dash underline
+Wave underline
+Strikethrough
+Subscript
+Superscript
+
+This 20-point font is just below a (Shift + Enter)
+
+
+This 8-point font is just below a (Ctrl + Enter)
+	This 12-point font is just below an indentation (Tab)
+
+Below is a default bullet list:
+* First item
+* Second item
+* Third item
+Below is a default numbered list:
+1. First item
+2. Second item
+3. Third item
+Below is a default multilevel list:
+1. First item
+2. Second item
+3. Third item
+a. First item after third item
+b. Second item after third item
+c. Third item after third item
+i. First item after third item after third item
+ii. Second item after third item after third item
+iii. Third item after third item after third item
+
+Below is a 1x1 table (just a single cell)
+Item
+The first word is the position of the cell from up to down. The second word is the position of the cell from left to right. Below is a 3x3 default table:
+Top-left itemTop-middle itemTop-right itemMiddle-left itemMiddle-middle itemMiddle-right itemBottom-left itemBottom-middle itemBottom-right item
